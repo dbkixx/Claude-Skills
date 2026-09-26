@@ -1,9 +1,4 @@
 {
-  "name": "Claude Skills",
-  "skills": [
-    {
-      "id": "xlsx",
-      "path": "xlsx/SKILL.md"
-    }
-  ]
+  "name": "claude-skills",
+  "skills": ["xlsx"]
 }
