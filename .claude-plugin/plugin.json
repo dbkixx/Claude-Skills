@@ -1,4 +1,5 @@
 {
+  "name": "Claude Skills",
   "skills": [
     {
       "id": "xlsx",
